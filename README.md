@@ -130,6 +130,13 @@ For technical issues or suggestions:
 
 This project is licensed under the terms specified in the LICENSE file.
 
+## Acknowledgements
+
+
+-   Developed by Vishnu Gupta Karapakula
+-   Linkedin: https://www.linkedin.com/in/vishnu-gupta-karapakula-a89409272/
+
 ---
+
 
 **Disclaimer**: This chatbot provides general information about Indian student banking. Always verify specific policies and requirements with your chosen Indian financial institution. The chatbot covers major banks like SBI, HDFC, ICICI, and PNB but does not perform any banking transactions.
